@@ -69,12 +69,12 @@ gitHubForm.addEventListener('submit', (e) => {
 
 // Function to fetch user repositories from GitHub API
 function requestUserRepos(username) {
-    return fetch(`https://api.github.com/users/${username}/repos`);
+    return fetch(`https://elc1090.github.io/project2a-2025a-andressateixeira13/${username}/repos`);
 }
 
 // Function to fetch commits for a specific repository
 function requestRepoCommits(username, repo) {
-    return fetch(`https://api.github.com/repos/${username}/${repo}/commits`);
+    return fetch(`https://elc1090.github.io/project2a-2025a-andressateixeira13/${repo}/commits`);
 }
 
 // Function to render commits for a specific repository
