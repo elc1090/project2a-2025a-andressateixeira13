@@ -5,7 +5,7 @@
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+https://elc1090.github.io/project2a-2025a-andressateixeira13/
 
 
 #### Desenvolvedor(a)
